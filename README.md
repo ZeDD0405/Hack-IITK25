@@ -98,6 +98,3 @@ npm run dev
 
 ---
 
-
-
-Would you like me to make this **more personalized for you** (e.g. add your LinkedIn/GitHub links in the *Team* section, and swap the repo URL to yours), so it’s a **ready-to-upload README.md**?
